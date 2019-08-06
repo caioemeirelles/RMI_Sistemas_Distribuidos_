@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMI_SD_Atividade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMI_SD_Atividade_jar</output-path>
+    <root id="archive" name="RMI_SD_Atividade.jar">
+      <element id="module-output" name="RMI_SD_Atividade" />
+    </root>
+  </artifact>
+</component>
